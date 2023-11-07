@@ -24,8 +24,7 @@ pip install numpy
 Clone this repository to your local machine and install the required dependencies.
 
 
-git clone https://github.com/VadimS077/Total_variation_denoisisng.git  
-cd project  
+git clone https://github.com/VadimS077/Total_variation_denoisisng.git   
 pip install opencv-python  
 pip install numpy  
 `
@@ -39,9 +38,3 @@ To run the automated tests for this system, simply run the main.py file. This wi
 
 This project can be deployed on a live system by integrating it with a web application or any other platform where image denoising is required.
 
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
