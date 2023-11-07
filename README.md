@@ -15,8 +15,8 @@ You will need to have the following installed:
 * Numpy
 
 `
-pip install opencv-python
-pip install numpy
+pip install opencv-python  
+pip install numpy  
 
 
 ### Installing
