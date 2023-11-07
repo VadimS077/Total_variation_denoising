@@ -24,10 +24,10 @@ pip install numpy
 Clone this repository to your local machine and install the required dependencies.
 
 
-git clone https://github.com/VadimS077/Total_variation_denoisisng.git
-cd project
-pip install opencv-python
-pip install numpy
+git clone https://github.com/VadimS077/Total_variation_denoisisng.git  
+cd project  
+pip install opencv-python  
+pip install numpy  
 `
 
 ## Running the tests
